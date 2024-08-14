@@ -1,4 +1,4 @@
-class Java Project
+class Project
 {
     public static void main(String []args)
     {
